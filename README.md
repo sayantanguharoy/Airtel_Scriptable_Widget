@@ -27,3 +27,5 @@ NOTE: Setting up widget (getting Airtel API auth data) is HARD, but its one time
 ```
 
 Thats it.
+
+widget design credit: [sillium](https://gist.github.com/Sillium/313164aec3d835c076ebfcd330f1be14)
